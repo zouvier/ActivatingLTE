@@ -1,5 +1,5 @@
 # ActivatingLTE
-Script for activating LTE in an i.MX
+Script for activating the LTE on an i.MX
 
 criteria:
 
