@@ -1,5 +1,5 @@
 # ActivatingLTE
-Script for activating the LTE on an i.MX / any ESP32
+Script for activating the LTE on an ESP32
 
 requirements:
 
